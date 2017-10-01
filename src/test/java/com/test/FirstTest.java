@@ -12,7 +12,7 @@ public void testFun() {
 	int a = 5;
 	int b = 6;
 	int c= a+b;
-	assertTrue(c==11);
+	assertTrue(c==12);
 }
 
 }
