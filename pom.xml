@@ -23,4 +23,11 @@
   <build>
     <finalName>TestWebAapp</finalName>
   </build>
+  <distributionManagement>
+		<repository>
+			<id>nexus-snapshots</id>
+			<name>Internal Release Repository</name>
+			<url>http://localhost:8081/repository/maven-snapshots/</url>
+		</repository>
+	</distributionManagement>
 </project>
