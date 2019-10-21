@@ -18,14 +18,15 @@
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
     <version>6.0.6</version>
-</dependency>
-<dependency>
+ </dependency>
+
+ <dependency>
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
     <version>4.12</version>
     <scope>test</scope>
-</dependency>
-  </dependencies>
+ </dependency>
+</dependencies>
   <build>
     <finalName>TestWebAapp</finalName>
   </build>
